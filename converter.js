@@ -18,6 +18,9 @@ let country_code={
     "IRR":"IR",
     "OMR":"OM",
     "IQD":"IQ",
+    "BDT":"BD",
+    "SAR":"SA",
+    "JPY":"JP",
 }
 
 let droplist=document.querySelectorAll(".drop-list select");
