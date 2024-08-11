@@ -4,7 +4,6 @@ tl.from("#box",{
     opacity: 0,
     duration: 2,
     delay: 0.5,
-    x:120,
     y:-120,
  });
 
