@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="converter.css">
+    <title>Document</title>
+</head>
+<style>
+</style>
+<body>
+    <div class="wrapper" id="box">
+        <header id="myheader">Currency converter</header>
+        <form action="">
+            <div class="amount">
+                <p>Enter amount</p>
+                <input type="text" value="1">
+            </div>
+            <div class="drop-list">
+                <div class="from">
+                    <p>From</p>
+                    <div class="select-box">
+                        <img src="https://flagsapi.com/AE/flat/64.png" alt="">
+                        <select name="from">
+                        </select>
+                    </div>
+                </div>
+                <div class="to">
+                    <p>To</p>
+                    <div class="select-box">
+                        <img src="https://flagsapi.com/NP/flat/64.png" alt="">
+                        <select name="to">
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="msg"></div>
+            <button>Get exchange</button>
+        </form>
+        <footer id="myfooter"><p id="myp">@Nouman aziz</p></footer>
+    </div>
+    <p></p>
+</body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+<script src="gsap.js"></script>
+<script src="converter.js"></script>
+</html>
