@@ -1,4 +1,5 @@
 let country_code={
+    "PKR":"PK",
     "NPR":"NP",
     "BRL":"BR",
     "INR":"IN",
@@ -26,7 +27,7 @@ for(select of droplist){
         newoption.value=currency_code;
         if(select.name==="from"&&currency_code==="AED"){
             newoption.selected="selected";
-        }else if(select.name==="to"&&currency_code==="NPR"){
+        }else if(select.name==="to"&&currency_code==="PKR"){
             newoption.selected="selected";
         };
         select.append(newoption);
