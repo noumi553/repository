@@ -16,7 +16,7 @@ let country_code={
     "RUB":"RU",
     "TRY":"TR",
     "IRR":"IR",
-    "OMR":"OM"'
+    "OMR":"OM",
     "IQD":"IQ",
 }
 
