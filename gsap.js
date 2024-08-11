@@ -4,7 +4,8 @@ tl.from("#box",{
     opacity: 0,
     duration: 2,
     delay: 0.5,
-    y:-90,
+    x:120,
+    y:-120,
  });
 
  tl.from("#myp",{
