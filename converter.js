@@ -12,6 +12,12 @@ let country_code={
     "BBD":"BB",
     "BOB":"BO",
     "USD":"US",
+    "CNY":"CN",
+    "RUB":"RU",
+    "TRY":"TR",
+    "IRR":"IR",
+    "OMR":"OM"'
+    "IQD":"IQ",
 }
 
 let droplist=document.querySelectorAll(".drop-list select");
