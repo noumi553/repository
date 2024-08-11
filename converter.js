@@ -10,6 +10,7 @@ let country_code={
     "BAM":"BA",
     "BBD":"BB",
     "BOB":"BO",
+    "USD":"US",
 }
 
 let droplist=document.querySelectorAll(".drop-list select");
