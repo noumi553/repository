@@ -39,6 +39,11 @@ body{
     font-size: 20px;
 }
 
+.amount{
+    display: flex;
+    justify-content: row;
+}
+
 .amount p{
     margin: 15px;
     margin-left: 95px;
