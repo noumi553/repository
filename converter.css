@@ -41,7 +41,8 @@ body{
 
 .amount{
     display: flex;
-    justify-content: row;
+    flex-direction: row;
+    justify-content: space-between;
     margin-top: 10px;
 }
 
