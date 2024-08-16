@@ -55,6 +55,7 @@ body{
 .amount input{
     height: 20px;
     outline: none;
+    margin-top:10px;
     width: 180px;
 }
 .drop-list{
