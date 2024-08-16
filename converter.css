@@ -45,14 +45,11 @@ body{
 }
 
 .amount p{
-    margin: 15px;
-    margin-left: 95px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(5, 5, 5);
 }
 
 .amount input{
-    margin-left: 45px;
     outline: none;
     width: 150px;
 }
