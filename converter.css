@@ -52,7 +52,7 @@ body{
 }
 
 .amount input{
-    height: 30px;
+    height: 20px;
     outline: none;
     width: 180px;
 }
@@ -91,7 +91,7 @@ body{
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     position: relative;
-    top: 50px;
+    top: 60px;
     background-color: rgb(0, 0, 0);
     height: 30px;
 }
