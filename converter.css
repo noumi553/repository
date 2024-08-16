@@ -51,7 +51,7 @@ body{
 
 .amount input{
     outline: none;
-    width: 150px;
+    width: 120px;
 }
 .drop-list{
     display: flex;
