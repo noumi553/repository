@@ -42,6 +42,7 @@ body{
 .amount{
     display: flex;
     justify-content: row;
+    margin-top: 10px;
 }
 
 .amount p{
@@ -50,8 +51,9 @@ body{
 }
 
 .amount input{
+    width: 50px;
     outline: none;
-    width: 120px;
+    width: 180px;
 }
 .drop-list{
     display: flex;
